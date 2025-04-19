@@ -1,4 +1,4 @@
-# zero_shot_appreviews_requirements
+# zero_shot_app_reviews_requirements
 This project demonstrates the use of ChatGPT's zero-shot learning capabilities to classify app reviews into four categories: functional requirements, non-functional requirements, both, or neither. Without any task-specific training, ChatGPT achieved an F1 score of 0.84 on a diverse, expert-annotated dataset.
  
 In addition to performance evaluation, we analyzed misclassification patterns with respect to review readability and length. We also benchmarked ChatGPT's performance against traditional machine learning models—including Random Forest, SVM, Logistic Regression, and Boosting algorithms—which require large amounts of domain-specific labeled data, often expensive and time-consuming to curate.
